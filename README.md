@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Николай Шабалин](https://up.htmlacademy.ru/adaptive/31/user/1057153).
-* Наставник: `Неизвестно`.
+* Студент: [Zakharov Pavel](https://github.com/yoogood/cat-energy-qa-solo-4).
+* Наставник: `Александр Першин`.
 
 ---
 
